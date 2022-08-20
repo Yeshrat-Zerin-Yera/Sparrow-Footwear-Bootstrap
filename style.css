@@ -1,33 +1,47 @@
 /* Fonts */
-.roboto{
+.roboto {
     font-family: 'Roboto', sans-serif;
 }
-.bebas-neue{
+
+.bebas-neue {
     font-family: 'Bebas Neue', cursive;
 }
+
 /* Colors */
-.dark{
+.dark {
     color: #3C3C3C !important;
 }
-.orange{
+
+.orange {
     color: #FA804C;
 }
-.off-white{
+
+.off-white {
     background-color: #F1F1F1;
 }
-.purple{
+
+.purple {
     color: #363958;
 }
-.gray{
+
+.gray {
     color: #3E3E3E;
 }
-.linear-purple{
+
+.linear-purple {
     background-image: linear-gradient(#3D4FF3, #3543BC);
 }
-.bg-orange{
+
+.bg-orange {
     background-color: #FFF9F4 !important;
 }
+
 /* Border */
-.rounded-6{
+.rounded-6 {
     border-radius: 25px;
+}
+
+/* Header-Section */
+#img-logo {
+    width: 150px;
 }
